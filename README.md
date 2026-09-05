@@ -2,50 +2,52 @@
 
 ### 📊 Data Analyst | Aspiring Data Scientist
 
-I'm a Computer Science student at **Phenikaa University**, passionate about **Data Analytics, Data Engineering, and AI**.
+I'm a Computer Science student at **Phenikaa University** with an interest in **Data Analytics, Data Science, and AI**.
 
-* 🔭 Building data analytics projects with **Python, SQL, Excel, Power BI, DuckDB, and PostgreSQL**.
-* 🎮 Currently working on a **Game Player Analytics** project to understand player behavior, engagement, and retention.
-* 🌱 Currently learning more about **Machine Learning, Data Engineering, and automated data pipelines**.
-* 📈 Interested in turning raw data into **insights, dashboards, and data-driven decisions**.
-* 💻 Enjoy working across the full analytics workflow: **Data Cleaning → SQL → Analysis → Visualization → Insights**.
+I enjoy working with data to discover patterns, generate insights, and support data-driven decisions.
+
+### 🔎 What I Can Do
+
+* 📊 **Data Analysis** — explore datasets, identify trends, patterns, and meaningful insights
+* 🧹 **Data Cleaning & Transformation** — handle missing values, duplicates, inconsistent data, and prepare data for analysis
+* 🗄️ **SQL & Databases** — write analytical queries, build data models, and work with relational databases
+* 📈 **Data Visualization** — create interactive dashboards and communicate insights effectively
+* 📑 **Excel** — use formulas, PivotTables, Power Query, and data analysis techniques
+* 📊 **Power BI** — build dashboards, data models, measures, and reports using DAX
+* 🐍 **Python for Data** — use Python for data manipulation, analysis, visualization, and automation
+* 🤖 **Machine Learning** — build and evaluate basic predictive models
+* ⚙️ **Data Processing** — design workflows for transforming raw data into analysis-ready datasets
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-**📊 Data Analytics & Visualization**
+**📊 Analytics & Business Intelligence**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-**💻 Programming & Query**
+**🐍 Python & Data Science**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**🗄️ Database & Data Processing**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white" />
-</p>
-
-**🧠 Machine Learning**
-
-<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-**⚙️ Development & Workflow**
+**🗄️ SQL & Databases**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+</p>
+
+**⚙️ Tools & Development**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,38 +58,14 @@ I'm a Computer Science student at **Phenikaa University**, passionate about **Da
 
 ---
 
-### 🚀 Featured Project
-
-#### 🎮 Game Player Analytics
-
-A data analytics project focused on understanding **player behavior and engagement** from large-scale game event data.
-
-**Tech Stack:**
-`Python` • `SQL` • `DuckDB` • `PostgreSQL` • `Parquet` • `Power BI`
-
-Key areas:
-
-* 🔍 Data validation & data quality checks
-* 🧹 Data cleaning & transformation
-* 🗄️ SQL analytics & data modeling
-* 🎮 Event & session analysis
-* 📊 DAU / MAU & player engagement
-* 🔄 Retention analysis
-* 🧠 Feature engineering
-* 📈 Power BI dashboards
-* 💡 Data-driven insights
-
----
-
 ### 📚 Currently Learning
 
-* 📊 Advanced Data Analytics
-* 📈 Power BI & Data Visualization
-* 📑 Advanced Excel
-* 🧠 Machine Learning
-* ⚙️ Data Engineering & ETL
-* 🗄️ Data Warehousing & Dimensional Modeling
-* 🎮 Game Analytics
+* Advanced Data Analytics
+* Data Visualization & Storytelling
+* Advanced SQL & Data Modeling
+* Power BI & DAX
+* Machine Learning
+* Data Engineering & ETL
 
 ---
 
@@ -101,10 +79,8 @@ Key areas:
 ---
 
 ### 📫 Connect With Me
-
 * 📧 Email: [dminh14102005@gmail.com]
-* 🐙 GitHub: [Your GitHub]
 
 ---
 
-⭐ *Always learning, building, and turning data into insights.*
+⭐ *Turning data into insights, one dataset at a time.*
